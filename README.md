@@ -1,10 +1,6 @@
 # POM_Financial_Planners
 POM inc. Financial planning tools
 
-
-Technologies
-The following import/modules were used: Panda's, Path from pathlib, & Matplotlib inline.
-
 Contributors
 Professor-Jorgage Alfonzo: Educational guidance, Teachers Assistant-Lee Hages: coding support, Gabriella Manis: Administrative Assistant: Administrative support
 
