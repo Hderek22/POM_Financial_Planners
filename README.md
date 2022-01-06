@@ -164,7 +164,7 @@ Derek Hall(https://twitter.com/Hderek22) - Hderek22@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [UNCC Fintech Bootcamp Faculty & Team Members - Class Commencming 11-17-2021]
+* UNCC Fintech Bootcamp Faculty & Team Members - Class Commencming 11-17-2021
 * https://github.com/othneildrew/Best-README-Template
 
 
