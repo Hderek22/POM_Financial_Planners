@@ -118,6 +118,9 @@ I have created 2 Financial Planners. One for planning your retirement and one pl
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+#A 10 year Monte Carlo projection...
+
+<img width="582" alt="Screen Shot 2022-01-06 at 4 50 30 PM" src="https://user-images.githubusercontent.com/94722790/148457328-524fe146-e81d-4c5e-9b4e-c00b8b8b35b8.png">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
