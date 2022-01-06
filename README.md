@@ -83,84 +83,46 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+I have created 2 Financial Planners. One for planning your retirement and one planning for any unexpected financial emergencies.
 
+* The retirement planner makes projections for your retirement using the Monte Carlo method. The Monte Carlo method projects your investment returns based on odds of many situational outcomes.  Would you like to know the chances of having a million dollars when you retire? find out using this planner!
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* Python
-* Pandas
-
+* The emergency planner will figure out if are financially preparded to overcome any unforeseen financial hurdles during a given time period.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Built With the following Python modules
 
-instructions on setting up your project locally.
+* Pandas:
+*     https://docs.python.org/3.7/library/pathlib.html
+* Pathlib:
+*     https://pandas.pydata.org/pandas-docs/stable/
+* Requests:
+*     https://docs.python-requests.org/en/master/
 
-### Prerequisites
 
-list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Imports:
-  - pandas: conda install pandas or pip install pandas
-  - pathlib: pip install pathlib
-  - requests: python -m pip install requests
-  - alpaca-trade-api: pip install alpaca-trade-api
-  - Free Crypto API
+  - pandas: _conda install pandas or pip install pandas_
+  - pathlib: _pip install pathlib_
+  - requests: _python -m pip install requests_
+  - alpaca-trade-api: _pip install alpaca-trade-api_
 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Hderek22/POM_Financial_Planners.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`Hderek22
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+### Get a free API Key at [https://alpaca.com](https://alpaca.markets/)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
+## Bugs
 See the [open issues](https://github.com/Hderek22/Hderek22/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -168,7 +130,11 @@ See the [open issues](https://github.com/Hderek22/Hderek22/issues) for a full li
 
 
 <!-- CONTRIBUTING -->
+## Contributors
 
+* https://github.com/othneildrew/Best-README-Template
+* https://github.com/Hderek22
+* UNCC Fintech Bootcamp starter code
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,8 +154,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Derek Hall(https://twitter.com/Hderek22) - Hderek22@gmail.com
 
-[https://github.com/Hderek22/POM_Financial_Planners](https://github.com/Hderek22/POM_Financial_Planners)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -197,7 +161,7 @@ Derek Hall(https://twitter.com/Hderek22) - Hderek22@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [UNCC Fintech Bootcamp Faculty & Team Members - Class Commencming 11-17-2021]()
+* [UNCC Fintech Bootcamp Faculty & Team Members - Class Commencming 11-17-2021]
 * https://github.com/othneildrew/Best-README-Template
 
 
