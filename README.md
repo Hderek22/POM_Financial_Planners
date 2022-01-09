@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I have created 2 Financial Planners. One for planning your retirement and one planning for any unexpected financial emergencies.
+THese financial planners are for planning your retirement as well as for any unexpected financial emergencies.
 
 * The retirement planner makes projections for your retirement using the Monte Carlo method. The Monte Carlo method projects your investment returns based on odds of many situational outcomes.  Would you like to know the chances of having a million dollars when you retire? find out using this planner!
 
