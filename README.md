@@ -125,8 +125,6 @@ THese financial planners are for planning your retirement as well as for any une
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Bugs
-See the [open issues](https://github.com/Hderek22/Hderek22/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
